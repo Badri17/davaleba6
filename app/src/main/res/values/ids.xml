@@ -3,4 +3,5 @@
     <item name="isImprotantImageView" type="id" />
     <item name="descriptionTextView" type="id" />
     <item name="titleTextView" type="id" />
+    <item name="ImageView" type="id" />
 </resources>

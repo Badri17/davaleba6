@@ -10,6 +10,7 @@ data class jj(
     @DrawableRes
     val image:Int,
     val isImportant:Boolean
-
-
 )
+
+
+
